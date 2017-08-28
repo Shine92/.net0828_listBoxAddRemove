@@ -1,0 +1,8 @@
+D:\LAB_E\test0828_listBox\test0828_listBox\bin\Debug\test0828_listBox.exe.config
+D:\LAB_E\test0828_listBox\test0828_listBox\bin\Debug\test0828_listBox.exe
+D:\LAB_E\test0828_listBox\test0828_listBox\bin\Debug\test0828_listBox.pdb
+D:\LAB_E\test0828_listBox\test0828_listBox\obj\Debug\test0828_listBox.Properties.Resources.resources
+D:\LAB_E\test0828_listBox\test0828_listBox\obj\Debug\test0828_listBox.csproj.GenerateResource.Cache
+D:\LAB_E\test0828_listBox\test0828_listBox\obj\Debug\test0828_listBox.exe
+D:\LAB_E\test0828_listBox\test0828_listBox\obj\Debug\test0828_listBox.pdb
+D:\LAB_E\test0828_listBox\test0828_listBox\obj\Debug\test0828_listBox.AddItemText.resources
